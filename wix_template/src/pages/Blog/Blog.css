@@ -1,0 +1,39 @@
+.page-heading{
+  margin:100px 0 10px 300px;
+  font-size: 40px;
+  color: #FC5C65;
+  font-family:  montserrat,sans-serif;
+}
+
+
+
+
+
+.card{
+  border: 1px solid black;
+  margin:50px 0 100px 300px;
+  height: 100%;
+  width:942px;
+
+}
+.card-img-top{
+  height: 528.75px;
+  width:940;
+  overflow: visible;
+  position: relative;
+}
+.card-title{
+  font-size: 28px;
+  font-family:  montserrat,sans-serif;
+  margin: 20px 0 20px 30px;
+}
+.card-day{
+  font-family:  montserrat,sans-serif;
+  margin: 0px 0 20px 30px;
+  font-size: small;
+  padding-top: 30px;
+}
+.card-text{
+  font-family:  montserrat,sans-serif;
+  margin: 0px 0 20px 30px;
+}

@@ -1,0 +1,67 @@
+.contact-details{
+  display:flex;
+
+}
+.contact-form{
+  height: 100vh;
+  width: 50%;
+}
+.contact-form span{
+  position:absolute;
+  top: 150px;
+  margin: 0px 0 52px 250px;
+  font-size: 40px;
+  color: #FC5C65;
+  font-family: sans-serif;
+}
+.contact-info{
+  background-color: rgb(230,240,255);
+  /* height: 100vh; */
+  width: 50%;
+  /* display: grid;
+  position: relative; */
+  
+}
+.heading{
+  position:absolute;
+  top: 150px;
+  margin: 0px 0 0px 250px;
+  font-size: 40px;
+  color: #FC5C65;
+  font-family: sans-serif;
+}
+.content{
+  margin: 230px 0 0 0px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.content p{
+  margin: 10px 0;
+  font-size: 20px;
+  font-family: sans-serif;
+  cursor: pointer;
+  color: #000000;
+  line-height: 1.5rem;
+}
+.content-icons{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: 40px 0;
+  
+}
+.content-data-of-contact{
+  font-family: avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+  font-size: 20px;
+  font-weight: lighter;
+}
+.form-container{
+  position:absolute;
+  top: 250px;
+  margin: 0px 0 5px 200px;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
